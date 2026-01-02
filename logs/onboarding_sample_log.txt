@@ -1,0 +1,5 @@
+[2024-05-20 09:00:15] INFO: Starting Onboarding for user: Jane Doe (jdoe@company.com)
+[2024-05-20 09:00:16] SUCCESS: Active Directory account created in OU=Finance,DC=Company,DC=com
+[2024-05-20 09:00:18] SUCCESS: Entra ID license assigned (Microsoft 365 E5)
+[2024-05-20 09:00:20] RBAC: User added to Security Group 'SG-Finance-Standard'
+[2024-05-20 09:00:22] COMPLETED: Identity lifecycle process successful.
